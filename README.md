@@ -6,7 +6,7 @@ A professional implementation of the **Strategy Design Pattern** using Python's 
 
 **Date:** April 18, 2026
 
-**Authors**: Joseph Adogeri ([@jadogeri](https://www.github.com/jadogeri))
+**Author**: Joseph Adogeri ([@jadogeri](https://www.github.com/jadogeri))
 
 ## 🛠 Technology Stack
 * **Language:** Python 3.10+
